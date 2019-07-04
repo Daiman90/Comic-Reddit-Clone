@@ -1,29 +1,13 @@
-# client
+## Reddit Clone for Comics ##
 
-## Project setup
-```
-npm install
-```
+A fullstack Reddit clone that is focused on comics.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Technology used in this project:
+* JavaScript
+* Vue
+* Firebase/Firestore
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Things learned during this project: 
+* How to use Firebase/Firestore
+* How google auth works
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
